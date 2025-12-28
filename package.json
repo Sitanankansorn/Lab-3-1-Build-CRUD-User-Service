@@ -1,15 +1,33 @@
 {
+<<<<<<< HEAD
   "name": "user-service",
+=======
+  "name": "lab-3-1-build-crud-user-service",
+>>>>>>> 08ee9fb (second commit)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sitanankansorn/Lab-3-1-Build-CRUD-User-Service.git"
+  },
+>>>>>>> 08ee9fb (second commit)
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+<<<<<<< HEAD
+=======
+  "bugs": {
+    "url": "https://github.com/Sitanankansorn/Lab-3-1-Build-CRUD-User-Service/issues"
+  },
+  "homepage": "https://github.com/Sitanankansorn/Lab-3-1-Build-CRUD-User-Service#readme",
+>>>>>>> 08ee9fb (second commit)
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.2.1",
